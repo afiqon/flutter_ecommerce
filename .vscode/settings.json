@@ -1,3 +1,4 @@
 {
-    "search.useReplacePreview": false
+    "search.useReplacePreview": false,
+    "editor.suggestOnTriggerCharacters": true
 }
